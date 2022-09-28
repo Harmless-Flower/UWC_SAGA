@@ -25,7 +25,7 @@ int main()
     Text hud;
 
     Font font;
-    font.loadFromFile("/Users/chatt07/Desktop/cpp_pong/fonts/game_over.ttf");
+    font.loadFromFile("address_to_file_with_chosen_font");
 
     hud.setFont(font);
     hud.setCharacterSize(200);
