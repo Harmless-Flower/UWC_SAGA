@@ -1,6 +1,6 @@
 /*
 
-If you were following along in class already, skip to Step 7, otherwise follow the steps below.
+If you were following along in class already, skip to Step 9, otherwise follow the steps below.
   1. Make a Student License in JetBrains (simply search it up, and complete as necessary)
   2. Install Clion
   3. If youre brew is installed, skip this step, otherwise copy and paste the line below into your terminal and press enter
